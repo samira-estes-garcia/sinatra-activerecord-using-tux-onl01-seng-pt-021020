@@ -1,4 +1,4 @@
-# Using Tux in Sinatra with ActiveRecord
+, thank# Using Tux in Sinatra with ActiveRecord
 
 ## Overview
 
